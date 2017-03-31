@@ -9,3 +9,7 @@ Arya.start:
 cw.start:
 	@cd ~/topDMC/cw-api/ && npm run debug
 .PHONY: cw.start
+#Start local_mysql
+mysql:
+	brew services start mysql
+.PHONY: mysql
