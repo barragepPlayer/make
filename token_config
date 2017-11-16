@@ -1,4 +1,0 @@
-{
- "hosts_config":{"ip":"54.223.103.193","user":"ec2-user"},
- "func_config":"function(){return axios.get('https://aip.baidubce.com/oauth/2.0/token?grant_type=client_credentials&client_id=VKOs96Y7TFmFfYTNpr4FFnig&client_secret=uXDTTg4iwD1eDMdAz5bA8Ntk1aNHkX5t')}"
-}
