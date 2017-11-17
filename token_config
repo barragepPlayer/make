@@ -1,4 +1,4 @@
 {
-"hosts_config":{"ip":"54.223.103.193","user":"ec2-user"},
+"hosts_config":{"staging":{"ip":"54.223.103.193","user":"ec2-user"}},
  "func_config":"function(){return axios.get(url)}"
 }
